@@ -1,0 +1,50 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.hybridforgelab/distill-mcp",
+  "description": "Web pages to clean Markdown for AI agents, honouring robots.txt and AI opt-outs.",
+  "repository": {
+    "url": "https://github.com/hybridforgelab/distill-mcp",
+    "source": "github",
+    "id": "1440328414"
+  },
+  "websiteUrl": "https://distill.hybridforgelab.com/integration.html#mcp-server",
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "hybridforgelab-distill-mcp",
+      "version": "0.1.0",
+      "runtimeHint": "uvx",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "RAPIDAPI_KEY",
+          "description": "Your RapidAPI key",
+          "isRequired": false,
+          "isSecret": true,
+          "format": "string"
+        },
+        {
+          "name": "API_MARKET_KEY",
+          "description": "Your api.market key, used when RAPIDAPI_KEY is not set",
+          "isRequired": false,
+          "isSecret": true,
+          "format": "string"
+        },
+        {
+          "name": "HFL_MARKETPLACE",
+          "description": "rapidapi or apimarket, when both keys are set",
+          "isRequired": false,
+          "isSecret": false,
+          "format": "string",
+          "choices": [
+            "rapidapi",
+            "apimarket"
+          ]
+        }
+      ]
+    }
+  ]
+}

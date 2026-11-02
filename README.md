@@ -1,5 +1,7 @@
 # Distill MCP server
 
+<!-- mcp-name: io.github.hybridforgelab/distill-mcp -->
+
 Give your AI agent clean Markdown from any web page: the main content only, without navigation, ads or scripts. Distill honours robots.txt and AI opt-outs.
 
 The server is open source (MIT). It calls the [Distill API](https://distill.hybridforgelab.com), which is paid, with a free plan.
