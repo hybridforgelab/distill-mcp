@@ -1,6 +1,6 @@
 [project]
 name = "hybridforgelab-distill-mcp"
-version = "0.2.1"
+version = "0.2.2"
 description = "Web page to clean Markdown for LLM agents, honouring robots.txt and AI opt-outs. Bring your own RapidAPI or api.market key."
 readme = "README.md"
 license = "MIT"
