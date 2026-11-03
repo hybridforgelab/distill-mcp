@@ -3,6 +3,10 @@
 <!-- mcp-name: io.github.hybridforgelab/distill-mcp -->
 
 [![M8ven Score](https://m8ven.ai/badge/mcp/hybridforgelab/distill-mcp?variant=verified)](https://m8ven.ai/mcp/hybridforgelab/distill-mcp?s=readme)
+[![CI](https://github.com/hybridforgelab/distill-mcp/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/hybridforgelab/distill-mcp/actions/workflows/ci.yml)
+[![PyPI](https://img.shields.io/pypi/v/hybridforgelab-distill-mcp)](https://pypi.org/project/hybridforgelab-distill-mcp/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://pypi.org/project/hybridforgelab-distill-mcp/)
+[![License: MIT](https://img.shields.io/github/license/hybridforgelab/distill-mcp)](LICENSE)
 
 Give your AI agent clean Markdown from any web page: the main content only, without navigation, ads or scripts. Distill honours robots.txt and AI opt-outs.
 
@@ -52,6 +56,10 @@ claude mcp add distill --env RAPIDAPI_KEY=your-rapidapi-key -- uvx --from hybrid
 | `HFL_MARKETPLACE` | `rapidapi` or `apimarket`, when both keys are set |
 
 Without a key the server still starts. The first tool call then explains where to get one.
+
+Also listed on Glama:
+
+[![distill-mcp on Glama](https://glama.ai/mcp/servers/hybridforgelab/distill-mcp/badge)](https://glama.ai/mcp/servers/hybridforgelab/distill-mcp)
 
 ## 3. Tools
 
