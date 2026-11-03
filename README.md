@@ -2,6 +2,8 @@
 
 <!-- mcp-name: io.github.hybridforgelab/distill-mcp -->
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/hybridforgelab/distill-mcp?variant=verified)](https://m8ven.ai/mcp/hybridforgelab/distill-mcp?s=readme)
+
 Give your AI agent clean Markdown from any web page: the main content only, without navigation, ads or scripts. Distill honours robots.txt and AI opt-outs.
 
 The server is open source (MIT). It calls the [Distill API](https://distill.hybridforgelab.com), which is paid, with a free plan.
