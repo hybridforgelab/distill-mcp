@@ -24,7 +24,7 @@ server = MCPServer(
     website_url="https://distill.hybridforgelab.com",
 )
 
-READ_ONLY = ToolAnnotations(read_only_hint=True, open_world_hint=True)
+READ_ONLY = ToolAnnotations(read_only_hint=True, destructive_hint=False, idempotent_hint=True, open_world_hint=True)
 
 
 def _shape(result: dict) -> dict:
