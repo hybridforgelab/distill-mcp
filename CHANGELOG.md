@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.2](https://github.com/hybridforgelab/distill-mcp/compare/hybridforgelab-distill-mcp-v0.2.1...hybridforgelab-distill-mcp-v0.2.2) (2026-11-03)
+
+
+### Bug Fixes
+
+* link the PyPI page to the GitHub repo ([#11](https://github.com/hybridforgelab/distill-mcp/issues/11)) ([027b750](https://github.com/hybridforgelab/distill-mcp/commit/027b7505c2937d4330be56595e6f9d9e3f5927e7))
+
+
+### Documentation
+
+* M8ven Trust Index badge ([#9](https://github.com/hybridforgelab/distill-mcp/issues/9)) ([9ca0d53](https://github.com/hybridforgelab/distill-mcp/commit/9ca0d53d474f852328986d4963e4df30986935a6))
+
 ## [0.2.1](https://github.com/hybridforgelab/distill-mcp/compare/hybridforgelab-distill-mcp-v0.2.0...hybridforgelab-distill-mcp-v0.2.1) (2026-11-03)
 
 
