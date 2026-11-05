@@ -21,7 +21,7 @@ The server is open source (MIT). It calls the [Distill API](https://distill.hybr
 | marketplace | |
 |---|---|
 | RapidAPI | [plans](https://rapidapi.com/bytestay-bytestay-default/api/distill-html-to-markdown-api/pricing) |
-| api.market | [store](https://api.market/store/hybrid-forge-lab/distill) |
+| api.market | [store](https://api.market/store/bytestay/distill) |
 
 ## 2. Add the server to your MCP client
 
