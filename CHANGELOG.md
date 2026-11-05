@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.2.3](https://github.com/hybridforgelab/distill-mcp/compare/hybridforgelab-distill-mcp-v0.2.2...hybridforgelab-distill-mcp-v0.2.3) (2026-11-05)
+
+
+### Bug Fixes
+
+* point api.market links at the bytestay store slug ([#15](https://github.com/hybridforgelab/distill-mcp/issues/15)) ([2bcabed](https://github.com/hybridforgelab/distill-mcp/commit/2bcabed2b0b6659fea6266d2622506817a4411c8))
+* point the RapidAPI listing links at the ByteStay org ([#14](https://github.com/hybridforgelab/distill-mcp/issues/14)) ([2a24a85](https://github.com/hybridforgelab/distill-mcp/commit/2a24a85952adf0b47c16ee2fc566142044a56325))
+
+
+### Documentation
+
+* README badges ([#12](https://github.com/hybridforgelab/distill-mcp/issues/12)) ([8126292](https://github.com/hybridforgelab/distill-mcp/commit/8126292254fd5e8c02e96454e8123739c7b3a930))
+
 ## [0.2.2](https://github.com/hybridforgelab/distill-mcp/compare/hybridforgelab-distill-mcp-v0.2.1...hybridforgelab-distill-mcp-v0.2.2) (2026-11-03)
 
 
